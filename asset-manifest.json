@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textils-react/static/css/main.073c9b0a.css",
+    "main.js": "/textils-react/static/js/main.af4bfe81.js",
+    "static/js/787.d3befce1.chunk.js": "/textils-react/static/js/787.d3befce1.chunk.js",
+    "index.html": "/textils-react/index.html",
+    "main.073c9b0a.css.map": "/textils-react/static/css/main.073c9b0a.css.map",
+    "main.af4bfe81.js.map": "/textils-react/static/js/main.af4bfe81.js.map",
+    "787.d3befce1.chunk.js.map": "/textils-react/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af4bfe81.js"
+  ]
+}
